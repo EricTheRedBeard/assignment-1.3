@@ -1,0 +1,43 @@
+body 
+{
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+nav 
+{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    background-color: #333;
+    color: white;
+    font-size: 16px;
+}
+
+footer 
+{
+    text-align: center;
+    margin-right: 200px;
+    font-style: italic;
+    font-size: 14px;
+    color: #666;
+}
+
+#memeImage 
+{
+    margin-right: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888888;
+}
+
+header 
+{
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
